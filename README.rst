@@ -1,5 +1,5 @@
 =========
-cool project
+The coolest project
 =========
 
 
