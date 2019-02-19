@@ -3,7 +3,7 @@ The project
 =========
 
 
-Add a short description here!
+Git solo project
 
 
 Description
